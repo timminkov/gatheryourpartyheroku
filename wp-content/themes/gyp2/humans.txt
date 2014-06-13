@@ -1,0 +1,22 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Rob Welch -- Designer\Developer -- mebro.co.uk
+
+# THANKS
+
+    Dan Morgan, for emotional and technical support
+    Kalis De Vals, for the original GYP logo
+    Kyle Johnson, for making new episodes of gypodcast every week without fail
+    Tim Minkov, for paying the bills
+    Polygon, for all the designs I stole, and being unintentionally hilarious
+    Wordpress, for making it look like I stole their default theme instead
+    Matt McInerney, Pablo Impallari, Rodrigo Fuenzalia and Igino Marini for Raleway (our typeface)
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery
+    WordPress

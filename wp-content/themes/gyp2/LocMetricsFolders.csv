@@ -1,0 +1,33 @@
+Folder,Files,LOC,SLOC-P,SLOC-L,MVG,BLOC,C&SLOC,CLOC,CWORD,HCLOC,HCWORD
+Total,123,44137,35233,21032,1183,6338,312,2566,14578,489,2734
+D:\Program Files (x86)\EasyPHP-5.3.9\www\gyp2\wp-content\themes\gyp2,123,44137,35233,21032,1183,6338,312,2566,14578,489,2734
+D:\Program Files (x86)\EasyPHP-5.3.9\www\gyp2\wp-content\themes\gyp2\_includes,11,541,520,35,0,21,2,0,6,0,0
+D:\Program Files (x86)\EasyPHP-5.3.9\www\gyp2\wp-content\themes\gyp2\_layouts,2,124,107,29,0,17,0,0,0,0,0
+D:\Program Files (x86)\EasyPHP-5.3.9\www\gyp2\wp-content\themes\gyp2\assets,13,3590,2541,3477,307,377,99,672,4410,100,697
+D:\Program Files (x86)\EasyPHP-5.3.9\www\gyp2\wp-content\themes\gyp2\assets\css,2,1152,871,635,0,105,74,176,920,30,83
+D:\Program Files (x86)\EasyPHP-5.3.9\www\gyp2\wp-content\themes\gyp2\assets\js,11,2438,1670,2842,307,272,25,496,3490,70,614
+D:\Program Files (x86)\EasyPHP-5.3.9\www\gyp2\wp-content\themes\gyp2\css,5,7832,6517,5643,0,1083,28,232,1118,41,179
+D:\Program Files (x86)\EasyPHP-5.3.9\www\gyp2\wp-content\themes\gyp2\dist,6,9205,7309,5879,200,1554,18,342,1717,28,122
+D:\Program Files (x86)\EasyPHP-5.3.9\www\gyp2\wp-content\themes\gyp2\dist\css,4,7199,6122,5377,0,1058,1,19,92,18,90
+D:\Program Files (x86)\EasyPHP-5.3.9\www\gyp2\wp-content\themes\gyp2\dist\js,2,2006,1187,502,200,496,17,323,1625,10,32
+D:\Program Files (x86)\EasyPHP-5.3.9\www\gyp2\wp-content\themes\gyp2\examples,31,2384,1952,353,0,343,15,89,548,19,74
+D:\Program Files (x86)\EasyPHP-5.3.9\www\gyp2\wp-content\themes\gyp2\examples\carousel,2,331,247,54,0,59,1,25,154,3,13
+D:\Program Files (x86)\EasyPHP-5.3.9\www\gyp2\wp-content\themes\gyp2\examples\grid,2,148,126,20,0,22,0,0,0,0,0
+D:\Program Files (x86)\EasyPHP-5.3.9\www\gyp2\wp-content\themes\gyp2\examples\jumbotron,2,118,103,3,0,14,0,1,14,1,14
+D:\Program Files (x86)\EasyPHP-5.3.9\www\gyp2\wp-content\themes\gyp2\examples\jumbotron-narrow,2,159,121,40,0,26,0,12,81,1,6
+D:\Program Files (x86)\EasyPHP-5.3.9\www\gyp2\wp-content\themes\gyp2\examples\justified-nav,2,169,144,58,0,21,9,4,59,0,0
+D:\Program Files (x86)\EasyPHP-5.3.9\www\gyp2\wp-content\themes\gyp2\examples\navbar,2,91,78,4,0,13,0,0,0,0,0
+D:\Program Files (x86)\EasyPHP-5.3.9\www\gyp2\wp-content\themes\gyp2\examples\navbar-fixed-top,2,92,79,3,0,13,0,0,0,0,0
+D:\Program Files (x86)\EasyPHP-5.3.9\www\gyp2\wp-content\themes\gyp2\examples\navbar-static-top,2,95,81,4,0,14,0,0,0,0,0
+D:\Program Files (x86)\EasyPHP-5.3.9\www\gyp2\wp-content\themes\gyp2\examples\non-responsive,2,215,163,58,0,33,0,19,89,6,25
+D:\Program Files (x86)\EasyPHP-5.3.9\www\gyp2\wp-content\themes\gyp2\examples\offcanvas,3,181,152,28,0,21,5,8,27,4,6
+D:\Program Files (x86)\EasyPHP-5.3.9\www\gyp2\wp-content\themes\gyp2\examples\signin,2,87,75,30,0,12,0,0,0,0,0
+D:\Program Files (x86)\EasyPHP-5.3.9\www\gyp2\wp-content\themes\gyp2\examples\starter-template,2,72,59,5,0,13,0,0,0,0,0
+D:\Program Files (x86)\EasyPHP-5.3.9\www\gyp2\wp-content\themes\gyp2\examples\sticky-footer,2,91,64,17,0,17,0,10,62,2,5
+D:\Program Files (x86)\EasyPHP-5.3.9\www\gyp2\wp-content\themes\gyp2\examples\sticky-footer-navbar,2,133,103,20,0,20,0,10,62,2,5
+D:\Program Files (x86)\EasyPHP-5.3.9\www\gyp2\wp-content\themes\gyp2\examples\theme,2,402,357,9,0,45,0,0,0,0,0
+D:\Program Files (x86)\EasyPHP-5.3.9\www\gyp2\wp-content\themes\gyp2\js,36,7898,5434,3934,656,1607,107,857,5247,282,1580
+D:\Program Files (x86)\EasyPHP-5.3.9\www\gyp2\wp-content\themes\gyp2\js\tests,19,3539,2797,2039,235,542,39,200,1514,36,130
+D:\Program Files (x86)\EasyPHP-5.3.9\www\gyp2\wp-content\themes\gyp2\js\tests\unit,13,1657,1365,335,4,277,0,15,63,8,23
+D:\Program Files (x86)\EasyPHP-5.3.9\www\gyp2\wp-content\themes\gyp2\js\tests\vendor,3,1750,1327,1682,221,248,34,175,1361,22,89
+D:\Program Files (x86)\EasyPHP-5.3.9\www\gyp2\wp-content\themes\gyp2\js\vendor,2,11,4,891,1,2,2,5,276,5,27

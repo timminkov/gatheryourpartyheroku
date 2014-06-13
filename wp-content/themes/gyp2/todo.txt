@@ -1,0 +1,48 @@
+OFFICIAL todo list
+
+NEEDED FOR SITE TO BE CONSIDERED FINISHED
+
+ * Make youtube embeds responsive
+ * Name of page on search results\tag query
+ * Refactor loop code! Right now there's some copy-pasting going on
+ * Thumbnails should be grabbed at a higher res when using the mobile view (future proof suggestion: the <picture> element and picturefill.js) or display smaller thumbs
+ * 'How to post on GYP2 video' without editor bugs
+ * Social buttons on articles? Everyone loves those
+
+OPTIONAL IF WE HAVE TIME, OR POST-LAUNCH
+
+ Featured articles on main page
+ Bigger view (>920px)
+ Popular articles display in sidebar
+ Show series (e.g. podcasts->gypodcasts,gdv,gyperspective) in sidebar when appropriate
+ Allow admins\editors to change cover photo on index page
+ Better meta info than tags for reviews
+ Slideshows in posts
+ Refactoring of incredibly shitty code (note: this will never happen)
+ RPG-like stats for users on about page
+ Let contributors edit their posts (is this even a good idea?)
+ Custom fonts for titles
+
+ I apologize for my incomprehensible css
+
+FINISHED
+
+
+Complete index page with responsive view
+Single.php except comments and responsive view
+Possibly go back to singles.php, make the featured image more like http://uk.ign.com/articles/2013/09/05/divekick-review (top area expands vertically)
+'Contribute to GYP' page with email option and http://wordpress.org/plugins/user-submitted-posts/
+Search form and pagination
+Stream page
+Mediaeelement.js on podcasts + custom fields
+Author bios page
+WP menus on responsive nav
+Display media type by tag on front page
+Image captions
+Bugfix: custom styles only appear in the dropdown SOME of the time. Cause totally unknown. Edit: might be fixed in latest wordpress, as I have not run into this for a while.
+Custom fields for youtube embeds (this is proving tricky because ideally i'd like the video to appear in the cover-image section, but I didn't write the html with that in mind)
+Comments section
+Responsive view for single.php (note: this is proving tricky because me.js will ONLY do fixed-width at ONE SINGULAR WIDTH FOR THE WHOLE SITE)
+Search results page\tag results page (do this LAST)
+Fix header at very low resolutions\very narrow screens (I think another breakpoint that makes the text smaller and shunts the title below the cover image is needed)
+Favicon?
