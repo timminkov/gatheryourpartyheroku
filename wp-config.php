@@ -14,9 +14,6 @@
  * @package WordPress
  */
 
-
-flush_rewrite_rules();
-
 // ** Heroku Postgres settings - from Heroku Environment ** //
 $db = parse_url($_ENV["DATABASE_URL"]);
 
