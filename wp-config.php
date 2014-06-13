@@ -14,6 +14,8 @@
  * @package WordPress
  */
 
+$_SERVER['REMOTE_ADDR'] = "http://gatheryourparty2.herokuapp.com/";
+
 // ** Heroku Postgres settings - from Heroku Environment ** //
 $db = parse_url($_ENV["DATABASE_URL"]);
 
