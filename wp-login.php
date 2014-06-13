@@ -23,8 +23,8 @@ if ( force_ssl_admin() && ! is_ssl() ) {
 	}
 }
 
-require_once ABSPATH . 'wp-includes/rewrite.php';
-flush_rewrite_rules();
+//require_once ABSPATH . 'wp-includes/rewrite.php';
+//flush_rewrite_rules();
 
 
 /**
