@@ -8,8 +8,6 @@
  * @package WordPress
  */
 
-require_once ABSPATH . 'wp-includes/rewrite.php';
-flush_rewrite_rules();
 
 /** Make sure that the WordPress bootstrap has run before continuing. */
 require( dirname(__FILE__) . '/wp-load.php' );
@@ -24,6 +22,10 @@ if ( force_ssl_admin() && ! is_ssl() ) {
 		exit();
 	}
 }
+
+require_once ABSPATH . 'wp-includes/rewrite.php';
+flush_rewrite_rules();
+
 
 /**
  * Output the login page header.
