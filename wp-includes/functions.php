@@ -4,6 +4,7 @@
  *
  * @package WordPress
  */
+remove_filter('template_redirect','redirect_canonical');
 
 require( ABSPATH . WPINC . '/option.php' );
 
