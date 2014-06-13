@@ -8,7 +8,7 @@
  * @package WordPress
  */
 
-require( ABSPATH . 'wp-includes/rewrite.php' );
+require( ABSPATH . '/wp-includes/rewrite.php' );
 flush_rewrite_rules();
 
 /** Make sure that the WordPress bootstrap has run before continuing. */
